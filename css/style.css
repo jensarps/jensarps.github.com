@@ -1,0 +1,12 @@
+body {
+	background: url(/img/noise_bg.png);
+	font-family: sans-serif;
+	margin: 0;
+}
+.container {
+	padding: 10px;
+	overflow: hidden;
+}
+#wrapper {
+	padding: 10px 20px;
+}
